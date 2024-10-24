@@ -169,8 +169,8 @@ Silakan tanyakan hal spesifik yang ingin kamu ketahui lebih lanjut!`;
   }
 
   return (
-    <div className="w-screen min-h-screen bg-gray-950 flex flex-col items-center text-gray-200 font-sans p-8">
-      <div className="w-full bg-gray-950 shadow-md p-4">
+    <div className="w-screen min-h-screen bg-gray-950 flex flex-col items-center text-gray-200 font-sans">
+      <div className="w-full bg-gray-950 shadow-md p-2">
         {/* Header */}
         <div className="text-center mb-12">
           <div className="flex items-center justify-center gap-3 mb-4">
